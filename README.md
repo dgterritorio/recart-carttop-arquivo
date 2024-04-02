@@ -1,2 +1,2 @@
 # recart-carttop-arquivo
-Repositório das versões das especificações técnicas CartTop
+Repositório das versões ANTIGAS das especificações técnicas CartTop
