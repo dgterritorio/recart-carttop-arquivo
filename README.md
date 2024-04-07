@@ -1,5 +1,20 @@
 # recart-carttop-arquivo
 Repositório das versões ANTIGAS das especificações técnicas CartTop
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'default' , 'themeVariables': {
+              'tagLabelColor': '#ff0000',
+              'tagLabelBackground': '#00ff00',
+              'tagLabelBorder': '#0000ff'
+       } } }%%
+    gitGraph LR:
+       commit id: "commits até 2020-04-01"
+       commit id: "BD v1.1" type: HIGHLIGHT tag: "v1.1"
+       commit id: "commits até 2020-05-20"
+       commit id: "BD v1.1.1" type: HIGHLIGHT tag: "v1.1.1"
+       commit id: "commits até 2020-07-20"
+       commit id: "BD v1.1.2" type: HIGHLIGHT tag: "v1.1.2"
+       commit id: "commits..."
+```
 
 ```mermaid
 graph TD;
